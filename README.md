@@ -1,3 +1,4 @@
 # fnf-health-drain-
-this script.lua is health drain like tabi
-Just copy the code. Make blue note thing I forgot what is it called
+Note: only work on psych engine.this script.lua is health drain like tabi
+Just copy the code. Make text document.
+Put it in a song.
