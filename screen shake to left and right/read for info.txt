@@ -1,0 +1,6 @@
+make your screen move to left and right ,understand right?
+
+
+
+
+it have a bug a little bit
